@@ -1,7 +1,7 @@
 #
 # Provides for easier use of 256 colors and effects.
 #
-# Copied from
+# Forked from
 #   https://github.com/sykora/etc/blob/master/zsh/functions/spectrum
 #   https://github.com/sorin-ionescu/prezto/blob/master/modules/spectrum/init.zsh
 #
