@@ -1,5 +1,5 @@
 #
-# Provides macOS functions.
+# Sets macOS functions.
 #
 
 #
