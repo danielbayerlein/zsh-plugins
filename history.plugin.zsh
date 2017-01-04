@@ -1,5 +1,5 @@
 #
-# Sets history options and defines history aliases.
+# Sets history options.
 #
 # Forked from
 #   https://github.com/sorin-ionescu/prezto/blob/master/modules/history/init.zsh
