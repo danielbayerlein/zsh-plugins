@@ -1,6 +1,6 @@
 # zsh-plugins
 
-> Plugins for [Zsh](http://www.zsh.org)
+> Plugins for [Zsh](http://zsh.sourceforge.net)
 
 ## Installation
 
