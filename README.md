@@ -86,4 +86,4 @@ zgen load danielbayerlein/zsh-plugins git
 
 ## Copyright
 
-Copyright (c) 2017 Daniel Bayerlein. See [LICENSE](./LICENSE) for details.
+Copyright (c) 2017-2018 Daniel Bayerlein. See [LICENSE](./LICENSE) for details.
